@@ -46,19 +46,19 @@ My diverse experience enables me to support the full development process, from g
 
 ### Full-stack Developer | *Kids International Village Japan* | Tokyo, Japan  
 *(Dec 2024 – Present)*  
-- Built an admin dashboard with **9 core screens** for a new schedule management system (TypeScript, Node.js, Express, Next.js, Prisma, PostgreSQL).  
-- Reviewed **20+ GitHub pull requests**, ensuring code quality and consistency across the team.  
+- Built an admin dashboard with 9 core screens for a new schedule management system (TypeScript, Node.js, Express, Next.js, Prisma, PostgreSQL).  
+- Reviewed 40+ GitHub pull requests, ensuring code quality and consistency across the team.  
 
 ### Back-end Developer (Internship) | *Tenatch* | Toronto, Canada  
 *(Sep 2024 – Mar 2025)*  
-- Developed backend functionality for **30+ modules** of a project management app (Python, FastAPI, PostgreSQL, MVC).  
-- Led a team of 3 engineers by creating a **development roadmap**, conducting 1:1s, and facilitating pair programming.  
+- Developed backend functionality for 30+ modules of a project management app (Python, FastAPI, PostgreSQL, MVC).  
+- Led a team of 3 engineers by creating a development roadmap, conducting 1:1s, and facilitating pair programming.  
 
 ### Project Leader | *Mitsubishi UFJ Information Technology, Ltd.* | Tokyo, Japan  
 *(Apr 2017 – Jun 2023)*  
-- Managed trading system expansion projects worth **USD 1.5M**, rolled out to **7 international offices** (🇫🇷🇳🇱🇩🇪🇦🇺🇹🇭🇮🇳🇹🇼).  
-- Created troubleshooting tools (VBA, Bash, SQL), improving **root cause analysis efficiency by 90%**.  
-- Automated build & deployment (Jenkins, Bash, Maven), reducing manual workload by **70%**.  
+- Managed trading system expansion projects worth USD 1.5M, rolled out to **7 international offices** (🇫🇷🇳🇱🇩🇪🇦🇺🇹🇭🇮🇳🇹🇼).  
+- Created troubleshooting tools (VBA, Bash, SQL), improving root cause analysis efficiency by 90%.  
+- Automated build & deployment (Jenkins, Bash, Maven), reducing manual workload by 70%.  
 
 ---
 
