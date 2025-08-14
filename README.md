@@ -1,8 +1,7 @@
 # 👋 Hi there
 
-I'm Masato Takakusaki.  
-I have over 7 years of experience in web development and project management, with a strong passion for problem-solving.  
-My background across multiple roles allows me to bridge both business and technical perspectives — from gathering requirements with stakeholders to coding, testing, and deployment.  
+I'm **Masato**.  
+I have over 7 years of experience in web development and project management, with a strong passion for problem-solving. Having worked in different roles, I’ve gained a deep understanding of both business and technical perspectives. My diverse experience enables me to support the full development process　from gathering requirements with stakeholders to coding, testing, and deployment.
 
 ---
 
