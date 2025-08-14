@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I’m Masato, a web developer and project manager based in Bangkok, with over 7 years of experience and a strong passion for problem-solving.  
+I’m Masato, a web developer based in Bangkok, with over 7 years of experience and a strong passion for problem-solving.  
 Having worked in different roles, I’ve gained a deep understanding of both business and technical perspectives.  
 My diverse experience enables me to support the full development process, from gathering requirements with stakeholders to coding, testing, and deployment.
 
